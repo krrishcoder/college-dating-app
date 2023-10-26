@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kmvHinge</string>
+    <string-array name="categories">
+        <item> </item>
+        <item>Compatible</item>
+        <item>Active today</item>
+        <item>Nearby</item>
+        <item>New here</item>
+
+        </string-array>
+
+</resources>
